@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 7c0943b028b8dba4d9a53802e34e79c2
   - enabled: 1
-    path: Assets/Scenes/Chaban9000.unity
+    path: Assets/Scenes/Game.unity
     guid: 95706de95226ce24b98453498020b39a
   m_configObjects: {}

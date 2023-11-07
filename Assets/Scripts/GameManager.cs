@@ -8,9 +8,9 @@ public class GameManager : MonoBehaviour
 {
     public GameObject protoSphere;
     public GameObject goal;
-    static int popul = 100;
     public GameObject[] spheres = new GameObject[popul];
     public double[,] goalDistance = new double[3,popul];
+    static int popul = 100;
     public Text timerTxt;
     float timer;
     public float[,,] weightInput = new float[popul, 5, 5];
